@@ -1,6 +1,4 @@
-# Federico
-Prueba de Federico
-# Exportar e Importar Base de Datos MySQL
+# Federico - Exportar e Importar Base de Datos MySQL
 **Proceso para exportar e importar una base de datos MySQL desde linea de comandos.**
 
 ## <a name='TOC'></a>
@@ -90,6 +88,6 @@ mysql> source /home/usuario/archivo.sql
 	+ Linea de Comandos
 
 ## <a name='credit'>Créditos y autor</a>
-
+- ** En Repositorio Softterier
 - **Autor del snippet: Tonatiuh García** [@Sr_Sol](https://twitter.com/Sr_Sol)
 - **Los snippets pertenecen a** [KamikazeLab](http://kamikazelab.com/)
