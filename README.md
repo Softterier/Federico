@@ -19,7 +19,9 @@ Si bien los clientes de base de datos ( Navycat, MySQLWorkbrench, etc… ) son u
 
 ## <a name='run'>Puesta en marcha</a>
 **Con nuestra Terminal y MySQL corriendo**
+
 Descargar MySQL localmente y en servidor, y configurar. 
+
 ## <a name='TOC'></a>
 
 **Exportar**
